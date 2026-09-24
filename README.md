@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anjali Bhasi! 👋
 
-<!--
-**anjalibhasi/anjalibhasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate frontend developer and software enthusiast focused on building practical web applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** HTML5, CSS3, JavaScript
+- **Frameworks/Libraries:** [Add any frameworks you know, e.g., React, Bootstrap]
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **[Expense AI](https://github.com):** [Add a 1-sentence description of what this app does].
+- **[Calculator App](https://github.com):** A clean and responsive web-based calculator.
+
+### 📈 GitHub Stats
+![Anjali's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+### 📫 Let's Connect!
+- **LinkedIn:** www.linkedin.com/in/anjali-kb-896459247
+- **Email:** anjalibhasi@gmail.com
