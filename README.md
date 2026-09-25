@@ -1,4 +1,4 @@
-# Hi, I'm Anjali Bhasi! 👋
+# Hi, I'm Anjali KB! 👋
 
 A passionate frontend developer and software enthusiast focused on building practical web applications.
 
