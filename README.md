@@ -3,13 +3,13 @@
 A passionate frontend developer and software enthusiast focused on building practical web applications.
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks/Libraries:** [Add any frameworks you know, e.g., React, Bootstrap]
+- **Languages:** HTML5, CSS3, JavaScript,python
+- **Frameworks/Libraries:**  React, Bootstrap
 - **Tools:** Git, GitHub, VS Code
 
 ### 🚀 Featured Projects
-- **[Expense AI](https://github.com):** [Add a 1-sentence description of what this app does].
-- **[Calculator App](https://github.com):** A clean and responsive web-based calculator.
+- **[Expense AI](https://github.com):**
+- **[Calculator App](https://github.com):**
 
 ### 📈 GitHub Stats
 ![Anjali's GitHub Stats](https://vercel.app)
